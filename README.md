@@ -1,7 +1,7 @@
 👋 Hi, I'm Christian but you can call me Chan
 - 👀 I’m aiming to be Software Engineer or Data Engineer!
 
-- 🌱 I’m currently learning Kotlin, Java, etc.
+- 🌱 I’m currently learning Kotlin, Java, Python, etc.
 
 - 📫 How to reach me https://www.linkedin.com/in/chanchanchong/
 
